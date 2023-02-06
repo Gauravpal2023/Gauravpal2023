@@ -1,0 +1,17 @@
+
+<div class="img-holder">
+                <img src="assets/imgs/man.svg" alt="">
+            </div>
+
+
+            btn btn-primary rounded mt-3
+
+            
+            <div class="socials mt-4">
+                <a class="social-item" href="javascript:void(0)"><i class="ti-email"></i></a>
+                <a class="social-item" href="https://www.linkedin.com/in/gaurav-pal-149450245"><i
+                        class="ti-linkedin"></i></a>
+                <a class="social-item" href="https://github.com/Gauravpal2023"><i class="ti-github"></i></a>
+                <a class="social-item" href="https://instagram.com/gauravpal6082?igshid=ZmZhODViOGI="><i
+                        class="ti-instagram"></i></a>
+            </div>
